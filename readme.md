@@ -22,7 +22,7 @@ yige.ai的非官方python sdk，方便大家在python下使用yige.ai
 
 或者源码安装：
 
-`pip install https://github.com/wwj718/yige-python.git`
+` pip3 install git+https://github.com/t-web/yige-python.git`
 
 
 # 使用
