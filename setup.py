@@ -20,7 +20,7 @@ test_requirements = [
 ]
 
 setup(
-    name='yige',
+    name='yigeai',
     version='0.2.0',
     description="Python library for yige.ai",
    # long_description=readme + '\n\n' + history,
